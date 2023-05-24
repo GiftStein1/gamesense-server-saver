@@ -18,6 +18,8 @@ This Lua script provides a simple interface to connect to game servers. The scri
 
 - Click a server button to connect to that server.
 
+- To delete a server, you need to open the "server-list.txt" file in your CSGO directory and remove the specific server line. Then, reload the script. A remove mode is planed.
+
 **Issues?**
 
 - Please open a Issue [here](https://github.com/GiftStein1/gamesense-server-saver/issues)
