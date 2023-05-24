@@ -18,6 +18,10 @@ This Lua script provides a simple interface to connect to game servers. The scri
 
 - Click a server button to connect to that server.
 
+**Issues?**
+
+- Please open a Issue [here](https://github.com/GiftStein1/gamesense-server-saver/issues)
+
 **Credits**
 
 @LuaBoss - For the IO Recreation for Skeet
