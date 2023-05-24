@@ -6,7 +6,7 @@ This Lua script provides a simple interface to connect to game servers. The scri
 - Directly connect to any server on the list by clicking a button.
 
 **Usage**
-- Download the Lua's [here](https://github.com/GiftStein1/gamesense-server-saver/releases/download/skeet/server-list.lua).
+- Download the Lua [here](https://github.com/GiftStein1/gamesense-server-saver/releases/download/skeet/server-list.lua).
 
 - Put the Lua in your CSGO Folder
 
